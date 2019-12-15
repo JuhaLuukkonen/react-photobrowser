@@ -5,6 +5,9 @@
   "engines": {
     "node": "12.13.1"
   },
+  "engines": {
+    "npm": "6.x"
+  },
   "dependencies": {
     "axios": "^0.18.1",
     "react": "^16.8.4",
